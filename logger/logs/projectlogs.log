@@ -1,0 +1,8 @@
+2022-04-29 15:31:53.322851::app.py::DEBUG::debug logged
+2022-04-29 15:31:53.730270::app.py::INFO::info logged
+2022-04-29 15:31:53.775018::app.py::WARNING::warning logged
+2022-04-29 15:31:53.821497::app.py::CRITICAL::critical logged
+2022-04-29 15:50:16.402533::app.py::DEBUG::debug logged
+2022-04-29 15:50:17.149553::app.py::INFO::info logged
+2022-04-29 15:50:17.206655::app.py::WARNING::warning logged
+2022-04-29 15:50:17.260031::app.py::CRITICAL::critical logged
